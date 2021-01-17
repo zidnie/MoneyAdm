@@ -1,4 +1,2 @@
-# moneyAdm
-# moneyAdm>> README.md
-
-echo # moneyAdm
+# Zidnie Nibrasal Izzati
+# 18.12.0737
